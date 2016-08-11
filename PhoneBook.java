@@ -4,13 +4,7 @@ public class PhoneBook {
 	
 	public static void main (String[] args){
 		options();		
-		/*This method prompts the user to enter phone number
-		String s;
-		Scanner in = new Scanner(System.in);
-		System.out.println("Enter Phone Number");
-		s = in.nextLine();
-		System.out.println("You entered phone number ");
-		System.out.println(s);*/
+		
 	}
 	
 	public static void options (){
